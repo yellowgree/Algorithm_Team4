@@ -20,15 +20,15 @@
 <table>
  <tr>
     <td align="center"><a href="https://github.com/nahy-512"><img src="https://avatars.githubusercontent.com/nahy-512" width="140px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/xx"><img src="https://avatars.githubusercontent.com/xx" width="140px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/xx"><img src="https://avatars.githubusercontent.com/xx" width="140px;" alt=""></a></td>
-    <td align="center"><a href="https://github.com/xx"><img src="https://avatars.githubusercontent.com/xx" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/yellowgree"><img src="https://avatars.githubusercontent.com/yellowgree" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/jooo0198"><img src="https://avatars.githubusercontent.com/jooo0198" width="140px;" alt=""></a></td>
+    <td align="center"><a href="https://github.com/lghyeon"><img src="https://avatars.githubusercontent.com/lghyeon" width="140px;" alt=""></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/nahy-512"><b>김나현</b></a></td>
-    <td align="center"><a href="https://github.com/xx"><b>박하은</b></a></td>
-    <td align="center"><a href="https://github.com/xx"><b>신주환</b></a></td>
-    <td align="center"><a href="https://github.com/xx"><b>이강현</b></a></td>
+    <td align="center"><a href="https://github.com/yellowgree"><b>박하은</b></a></td>
+    <td align="center"><a href="https://github.com/jooo0198"><b>신주환</b></a></td>
+    <td align="center"><a href="https://github.com/lghyeon"><b>이강현</b></a></td>
   </tr>
 </table>
 
